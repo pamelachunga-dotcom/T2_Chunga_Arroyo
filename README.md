@@ -15,3 +15,7 @@ Repositorio creado para la evaluación T2 utilizando Git.
 ## Evidencia T2
 
 Evaluación T2 de Lenguaje de Programación II.
+
+## Control de cambios
+
+Se realizaron modificaciones controladas mediante Git para evidenciar el uso del Working Directory y el Staging Area.
