@@ -19,3 +19,8 @@ Evaluación T2 de Lenguaje de Programación II.
 ## Control de cambios
 
 Se realizaron modificaciones controladas mediante Git para evidenciar el uso del Working Directory y el Staging Area.
+
+Gestión de ramas
+Rama utilizada: feature-chunga
+
+Se creó la clase ControlVersion_Chunga para demostrar el desarrollo de una funcionalidad utilizando una rama independiente.
